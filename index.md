@@ -60,4 +60,4 @@ http://dx.doi.org/10.1109/TBME.2015.2498878
 
 **Research experience:** <http://roug84.github.io/Hector-ROMERO-Research-Experience>
 
-**CV:** http://roug84.github.io/Hector-ROMERO-CV
+**CV:** [http://roug84.github.io/Hector-ROMERO-CV](http://roug84.github.io/Hector-ROMERO-CV)
